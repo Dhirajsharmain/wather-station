@@ -1,2 +1,2 @@
 # wather-station
- wather ststion using arduino mini
+ wather station using arduino mini, Lm35 and OLED
